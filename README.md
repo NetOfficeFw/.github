@@ -1,1 +1,3 @@
-# .github
+# NetOffice
+
+Defaults for NetOffice organization.
